@@ -107,10 +107,6 @@ input[type="radio"] {
     font-size: 1rem;
 }
 
-.contact_information {
-    display: flex;
-}
-
 .contact_information input[class^= "width"] {
      width: 50%;
      display: flex;
